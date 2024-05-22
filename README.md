@@ -1,3 +1,3 @@
 # Python-Projects
 
-Here I push my several python projects
+Here I push my several short python projects
